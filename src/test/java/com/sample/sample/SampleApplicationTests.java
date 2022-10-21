@@ -9,7 +9,7 @@ class SampleApplicationTests {
 	@Test
 	void contextLoads() {
 		
-System.out.println("this is test cases");
+   System.out.println("this is test cases");
 	}
 
 }
